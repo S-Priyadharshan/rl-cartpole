@@ -4,10 +4,10 @@
 To develop and fine tune the Monte Carlo algorithm to stabilize the Cart Pole.
 
 ## PROBLEM STATEMENT
-Explain the problem statement.
+The problem statement involves using a MC control algorithm on the discretized Cart pole environment. The environment consists of a Pole balancing on a cart, we know about the cart length, velocity, pole angle and pole angular velocity and aim to keep the pole upright by moving it either to the right or the left direction and keep it within specified bounds.
 
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING
-Include the steps involved in the Monte Carlo control algorithm stabilization.
+
 
 ## MONTE CARLO CONTROL FUNCTION
 Include the Monte Carlo control function
